@@ -41,8 +41,3 @@ def test_factorial_and_prime_and_palindrome():
     assert m.is_prime(97) is True
     assert m.is_palindrome('Racecar') is True
     assert m.is_palindrome('Hello') is False
-
-
-def test_intentional_failure():
-    # This failing test is added intentionally to demonstrate GitHub Actions failure behavior.
-    assert 1 == 0
