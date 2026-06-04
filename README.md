@@ -74,6 +74,10 @@ pytest -q tests/test_module1.py
 pytest -q tests/test_module2.py
 ```
 
+## GitHub Actions
+
+A GitHub Actions workflow is configured in `.github/workflows/python-tests.yml` to run the test suite automatically on pushes and pull requests to `master`.
+
 ## Notes
 
 This course is designed for self-paced learners and includes examples, exercises, and mini-projects in each module. Use the notebooks interactively and modify code to explore further.
