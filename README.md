@@ -1,6 +1,6 @@
 # Beginner Python Course
 
-[![Python Test Suite](https://github.com/ketankshukla/python-course/actions/workflows/python-tests.yml/badge.svg)](https://github.com/ketankshukla/python-course/actions/workflows/python-tests.yml)
+[![Python Test Suite](https://github.com/ketankshukla/python-course/actions/workflows/python-tests.yml/badge.svg)](https://github.com/ketankshukla/python-course/actions/workflows/python-tests.yml) [![Python Version](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/release/python-3140/) [![GitHub last commit](https://img.shields.io/github/last-commit/ketankshukla/python-course.svg)](https://github.com/ketankshukla/python-course/commits/master) [![Repo size](https://img.shields.io/github/repo-size/ketankshukla/python-course.svg)](https://github.com/ketankshukla/python-course)
 
 This workspace contains a complete beginner-focused Python course delivered as Jupyter notebooks.
 
