@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+if [ -x .venv/bin/python ]; then
+  .venv/bin/python -m pytest -q "$@"
+else
+  python3 -m pytest -q "$@"
+fi

@@ -1,0 +1,5 @@
+jupyterlab
+pytest
+pandas
+requests
+beautifulsoup4
