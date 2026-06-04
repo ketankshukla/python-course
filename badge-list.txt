@@ -1,0 +1,46 @@
+GitHub Actions workflow status:
+[![Python Test Suite](https://github.com/ketankshukla/python-course/actions/workflows/python-tests.yml/badge.svg)](https://github.com/ketankshukla/python-course/actions/workflows/python-tests.yml)
+
+Python version:
+[![Python Version](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/release/python-3140/)
+
+Repository last commit:
+[![GitHub last commit](https://img.shields.io/github/last-commit/OWNER/REPO.svg)](https://github.com/OWNER/REPO/commits/main)
+
+Repository size:
+[![Repo size](https://img.shields.io/github/repo-size/OWNER/REPO.svg)](https://github.com/OWNER/REPO)
+
+Issues open:
+[![GitHub issues](https://img.shields.io/github/issues/OWNER/REPO.svg)](https://github.com/OWNER/REPO/issues)
+
+Open pull requests:
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/OWNER/REPO.svg)](https://github.com/OWNER/REPO/pulls)
+
+Stars:
+[![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO.svg?style=social)](https://github.com/OWNER/REPO/stargazers)
+
+Forks:
+[![GitHub forks](https://img.shields.io/github/forks/OWNER/REPO.svg?style=social)](https://github.com/OWNER/REPO/network/members)
+
+Top language:
+[![GitHub top language](https://img.shields.io/github/languages/top/OWNER/REPO.svg)](https://github.com/OWNER/REPO)
+
+Contributors:
+[![GitHub contributors](https://img.shields.io/github/contributors/OWNER/REPO.svg)](https://github.com/OWNER/REPO/graphs/contributors)
+
+Watchers (may be unstable due to token pool issues):
+[![GitHub watchers](https://img.shields.io/github/watchers/OWNER/REPO.svg?style=social)](https://github.com/OWNER/REPO/watchers)
+
+License (if present):
+[![License](https://img.shields.io/github/license/OWNER/REPO.svg)](https://github.com/OWNER/REPO/blob/main/LICENSE)
+
+PyPI version (if published):
+[![PyPI version](https://img.shields.io/pypi/v/PACKAGE_NAME.svg)](https://pypi.org/project/PACKAGE_NAME)
+
+Codecov / Coverage badge:
+[![Coverage Status](https://img.shields.io/codecov/c/github/OWNER/REPO.svg)](https://codecov.io/gh/OWNER/REPO)
+
+Notes:
+- Replace OWNER/REPO with your GitHub username and repository name.
+- Replace PACKAGE_NAME with your PyPI package name if applicable.
+- Some Shields.io GitHub badges may temporarily fail when the token pool is exhausted; choose stable badges if you need maximum reliability.
