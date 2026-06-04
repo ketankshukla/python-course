@@ -1,5 +1,7 @@
 # Beginner Python Course
 
+[![Python Test Suite](https://github.com/ketankshukla/python-course/actions/workflows/python-tests.yml/badge.svg)](https://github.com/ketankshukla/python-course/actions/workflows/python-tests.yml)
+
 This workspace contains a complete beginner-focused Python course delivered as Jupyter notebooks.
 
 ## Course Structure
