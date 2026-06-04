@@ -8,6 +8,29 @@
 
 This workspace contains a complete beginner-focused Python course delivered as Jupyter notebooks.
 
+## What You'll Learn
+
+- **Fundamentals** — variables, types, expressions, string formatting, and user input
+- **Control flow** — conditionals, loops, and list comprehensions
+- **Data structures** — lists, tuples, sets, and dictionaries
+- **Functions** — defining, calling, arguments, and scope
+- **File I/O** — reading/writing files, CSV, and JSON
+- **Object-oriented programming** — classes, methods, and inheritance
+- **Error handling** — try/except, custom exceptions
+- **Testing** — pytest, assertions, debugging strategies
+- **Data processing** — pandas basics, CSV/JSON workflows
+- **APIs & web** — requests library, JSON parsing, basic web scraping
+- **Best practices** — virtual environments, packaging, version control, testing
+
+## Course Highlights
+
+✅ **12 comprehensive modules** — structured progression from basics to capstone projects  
+✅ **50+ practice exercises** — hands-on coding at the end of each module  
+✅ **Automated testing** — 38 tests across all modules with pytest  
+✅ **Final projects** — Personal finance tracker, quiz app, todo manager with complete step-by-step guides  
+✅ **Code examples** — 100+ runnable examples in every notebook  
+✅ **Production-ready setup** — virtual environment, requirements.txt, GitHub Actions CI/CD  
+
 ## Course Structure
 
 - `00_Syllabus.ipynb` — course overview and roadmap
@@ -87,3 +110,18 @@ A GitHub Actions workflow is configured in `.github/workflows/python-tests.yml` 
 ## Notes
 
 This course is designed for self-paced learners and includes examples, exercises, and mini-projects in each module. Use the notebooks interactively and modify code to explore further.
+
+## Support & Feedback
+
+- **Questions?** Check the notebooks for detailed explanations and examples
+- **Suggestions?** Open an issue on GitHub
+- **Want to contribute?** Feel free to fork the repo and submit pull requests
+- **Found a bug?** Report it in the Issues tab
+
+## License
+
+This course is open-source and available for educational use.
+
+---
+
+**Happy coding! Start with `00_Syllabus.ipynb` and progress through each module at your own pace.** 🐍
